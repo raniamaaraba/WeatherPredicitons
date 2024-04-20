@@ -1,0 +1,13 @@
+Name: Rania Maaraba
+
+Ask for user input based on the year and the quarter
+Save those values
+
+Use the user values to then calculate the GDP using the four statements:
+epochq = 1977 * 4
+cd = uy*4+(uq-1)
+qb = cd -epochq
+
+Replace uy and uq for the user data and calculate
+
+Print the final statements outputting the year, quarter, and total GDP
